@@ -1,0 +1,17 @@
+h1{
+    font-size: 60px;
+    color: chocolate;
+    font-style: inherit;
+    text-align: center;
+    margin-top: 250px;
+;
+}
+button{
+    font-size: 30px;
+    background-color: greenyellow;
+    font-style: oblique;
+    text-align: center;
+}
+body{
+    background-color: antiquewhite;
+}

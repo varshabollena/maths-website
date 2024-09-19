@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(243, 241, 240);
+}
+#maths{
+    font-size: 50px;
+    color: cadetblue;
+    text-align: center;
+}
+#navbox{
+    border: solid 1px hidden;
+    height: 40px;
+}
+ul li{
+    border: solid 1px hidden;
+    height: 50px;
+    width: 150px;
+    float: left;
+    font-size: 20px;
+    text-align: center;
+    line-height: 50px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    border-radius: 10px;
+}
+ul{
+    list-style: none;
+}
+ul li a{
+    color: rgb(48, 141, 222);
+    text-decoration: none;
+}
+ul li ul li{
+    display: none;
+}
+ul li:hover ul li{
+    display: block;
+}
+ul li:hover{
+    background-color: rgb(109, 234, 132);
+}
+h3{
+    font-size: 50px;
+}
+p{
+    font-size: 25px;
+}
+section{
+    font-size: 20px;
+}
+img{
+    margin-left: 600px;
+    height: 250px;
+    width: 250px;
+}
+#abc{
+    text-align: center;
+    margin-right: 100px;
+}
+#varsha{
+    font-size: 30px;
+    text-align: center;
+    margin-right: 100px;
+}
+#abcde{
+    font-size: 25px;
+}
